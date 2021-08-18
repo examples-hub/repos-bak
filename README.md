@@ -1,2 +1,2 @@
-# repos-bak
-backup repos for other individual repos
+# repos-temp-copies
+backup repos for other repos
